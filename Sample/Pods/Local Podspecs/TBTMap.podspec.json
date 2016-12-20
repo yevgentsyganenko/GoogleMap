@@ -1,0 +1,22 @@
+{
+  "name": "TBTMap",
+  "version": "0.0.1",
+  "summary": "Tabata iOS SDK Map",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://github.com/yevgentsyganenko/Map",
+  "authors": {
+    "Genek": "yevgen.tsyganenko@idapgroup.com"
+  },
+  "source": {
+    "git": "https://github.com/yevgentsyganenko/Map.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.1"
+  },
+  "requires_arc": true,
+  "source_files": "CLGLocationManager/*.{h,m}"
+}

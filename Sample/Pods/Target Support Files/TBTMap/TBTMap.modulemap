@@ -1,0 +1,6 @@
+framework module TBTMap {
+  umbrella header "TBTMap-umbrella.h"
+
+  export *
+  module * { export * }
+}

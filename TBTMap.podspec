@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '8.1'
   s.requires_arc = true
 
-  s.source_files  = 'CLGLocationManager/*.{h,m}'
+  s.source_files  = 'Source/**/*.{h,m}'
 
 end

@@ -1,0 +1,16 @@
+PODS:
+  - TBTMap (0.0.1)
+
+DEPENDENCIES:
+  - TBTMap (from `..`)
+
+EXTERNAL SOURCES:
+  TBTMap:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  TBTMap: dda1f98a0f855dad9325c13b2667f79811b14b97
+
+PODFILE CHECKSUM: ee1c3564e3408881adccb5bec49fe245b7df7d80
+
+COCOAPODS: 1.1.0.rc.2
